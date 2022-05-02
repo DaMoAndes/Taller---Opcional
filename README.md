@@ -17,3 +17,5 @@ Caracteristicas del script
 # La funcion TypeRandomly, selecciona un boton y escribe de manera aleatoria en un campo.
 
 # Link del video del proceso de la prueba: https://youtu.be/BPkENN3d3Xk
+
+# Link del repositorio Git: https://github.com/DaMoAndes/Taller-Opcional
