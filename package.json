@@ -1,0 +1,14 @@
+{
+  "name": "semana-4",
+  "version": "1.0.0",
+  "description": "Taller Monkeys",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Morales",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.6.0"
+  }
+}
